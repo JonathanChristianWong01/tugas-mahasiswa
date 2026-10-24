@@ -76,29 +76,21 @@ Status: Berhasil untuk menampilkan data saat mode pesawat aktif. Uji daya simpan
 
 6\. Memastikan data tetap ada setelah aplikasi ditutup
 
-Langkah: Matikan Wi-Fi dan data seluler. Tutup aplikasi dari daftar aplikasi terbaru, lalu buka kembali. Periksa judul dan status tugas yang sebelumnya disimpan.
+Hasil: Setelah Wi-Fi dan data seluler dimatikan, aplikasi ditutup dan dibuka kembali, tugas yang tersimpan tetap muncul dengan status Proses.
 
 
 
-Hasil: Belum dicatat. Tulis apa yang benar-benar muncul setelah pengujian.
-
-
-
-Status: Belum diverifikasi.
+Status: Berhasil.
 
 
 
 7\. Menghapus tugas dengan konfirmasi
 
-Langkah: Buka detail tugas uji, tekan ikon hapus, lalu pilih Batal. Periksa bahwa tugas masih ada. Bila ingin menguji penghapusan, ulangi dan pilih Hapus pada tugas uji tersebut.
+Hasil: Saat ikon hapus ditekan, dialog konfirmasi muncul. Memilih Batal membuat tugas tetap ada. Saat Hapus dipilih pada tugas uji, tugas hilang dari daftar.
 
 
 
-Hasil: Belum dicatat. Tulis apakah dialog muncul, apakah Batal mempertahankan tugas, dan apakah Hapus menghilangkan tugas.
-
-
-
-Status: Belum diverifikasi.
+Status: Berhasil.
 
 
 
